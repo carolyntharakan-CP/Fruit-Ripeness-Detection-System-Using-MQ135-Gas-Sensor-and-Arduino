@@ -3,21 +3,21 @@
 Aim
 =
 
-To design and implement a system that detects the ripeness of fruits by sensing the gases emitted during ripening using an MQ135 gas sensor and displaying the result on an LCD.
+To design and implement a system that detects the ripeness of fruits by sensing the gases emitted during ripening using an MQ5 gas sensor and displaying the result on an LCD.
 
 Objective
 =
 
-The objective of this project is to detect the ripeness of fruits by measuring the gas concentration released during ripening using an MQ135 sensor and to display the ripeness status clearly on an LCD with visual indication through an LED.
+The objective of this project is to detect the ripeness of fruits by measuring the gas concentration released during ripening using an MQ5 sensor and to display the ripeness status clearly on an LCD with visual indication through an LED.
 
 Components Used
 =
-Arduino Uno MQ135 Gas Sensor 16×2 LCD Display LED Resistor Breadboard Connecting Wires USB Cable (for programming and power supply)
+Arduino Uno MQ5 Gas Sensor 16×2 LCD Display LED Resistor Breadboard Connecting Wires USB Cable (for programming and power supply)
 
 Implementation
 =
 
-The MQ135 gas sensor is interfaced with an Arduino to continuously monitor gas levels emitted by fruits. The sensor readings are compared with a predefined threshold, and based on this comparison, the ripeness status is displayed on a 16×2 LCD while an LED provides a quick visual indication.
+The MQ5 gas sensor is interfaced with an Arduino to continuously monitor gas levels emitted by fruits. The sensor readings are compared with a predefined threshold, and based on this comparison, the ripeness status is displayed on a 16×2 LCD while an LED provides a quick visual indication.
 
 Result
 =
